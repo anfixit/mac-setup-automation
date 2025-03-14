@@ -70,7 +70,7 @@ is_installed() {
 # ==============================
 echo "🛠️ Устанавливаем основные инструменты разработки..."
 
-brew install --cask pycharm-professional
+brew install --cask pycharm-ce
 brew install --cask iterm2
 brew install --cask visual-studio-code
 brew install --cask sublime-text
