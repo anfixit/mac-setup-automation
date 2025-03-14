@@ -91,7 +91,6 @@ brew install --cask appcleaner
 brew install --cask onyx
 brew install --cask daisydisk
 brew install --cask hiddenbar
-brew install --cask purepaste
 brew install --cask cheatsheet
 brew install --cask lulu
 brew install --cask macs-fan-control
