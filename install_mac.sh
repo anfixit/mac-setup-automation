@@ -92,6 +92,8 @@ brew install --cask onyx
 brew install --cask daisydisk
 brew install --cask hiddenbar
 brew install --cask cheatsheet
+brew install --cask macfuse # Обходной путь для установки ntfs-3g
+brew install gromgit/fuse/ntfs-3g-mac
 brew install --cask lulu
 brew install --cask macs-fan-control
 brew install --cask rocket
