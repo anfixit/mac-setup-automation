@@ -91,14 +91,14 @@ brew install --cask appcleaner
 brew install --cask onyx
 brew install --cask daisydisk
 brew install --cask hiddenbar
-brew install --cask force-paste  # Заменено вместо pure-paste
+brew install --cask purepaste
 brew install --cask cheatsheet
 brew install --cask lulu
 brew install --cask macs-fan-control
 brew install --cask rocket
 brew install --cask raycast
 brew install --cask shottr
-brew install --cask keepingyouawake  # Заменено вместо amphetamine
+brew install --cask keepingyouawake
 brew install --cask karabiner-elements
 
 # ==============================
